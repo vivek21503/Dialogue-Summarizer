@@ -10,7 +10,8 @@ It effectively condenses conversations into concise summaries, making it easier 
   
 **Sample Dialogue**
 
-dialogue = """
+dialogue = 
+"""
 Alice: Hi Bob, I'm interested in the new smartphone you have on sale. Can you tell me more about its features?
 
 Bob: Absolutely, Alice. The new smartphone has a 6.7-inch display, 128GB storage, and a 48MP camera. It also
