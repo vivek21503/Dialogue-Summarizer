@@ -47,10 +47,10 @@ Alice is interested in the new smartphone Bob has for sale. The new smartphone h
 ```
 
 ## 🛠️ Tech Stack
-Model: BART (via Hugging Face Transformers)
-Dataset: SAMSum
-Language: Python
-Frameworks & Libraries: PyTorch
-Hugging Face Transformers
-Datasets (from Hugging Face)
-ROUGE metrics
+- Model: BART (via Hugging Face Transformers)
+- Dataset: SAMSum
+- Language: Python
+- Frameworks & Libraries: PyTorch
+, Hugging Face Transformers
+, Datasets (from Hugging Face)
+, ROUGE metrics
