@@ -44,3 +44,14 @@ Alice: Thanks, Bob. I think I'll go ahead and purchase it.
 '''
 ## ✅ Generated Summary
 Alice is interested in the new smartphone Bob has for sale. The new smartphone has a 6.7-inch display, 128GB storage, and a 48MP camera. It also supports 5G and comes with a long-lasting battery. It has a one-year manufacturer's warranty and a 30-day return policy.
+
+
+
+🛠️ Tech Stack
+Model: BART (via Hugging Face Transformers)
+Dataset: SAMSum
+Language: Python
+Frameworks & Libraries: PyTorch
+Hugging Face Transformers
+Datasets (from Hugging Face)
+ROUGE metrics
